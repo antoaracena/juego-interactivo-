@@ -18,7 +18,7 @@ Entrena la **percepción auditiva** y la asociación sonido–objeto. El usuario
 - `img/` — imágenes de las opciones.
 
 ## Tecnología
-HTML, CSS y JavaScript. El audio se editó en una DAW (recorte, limpieza de ruido, normalización y fades) y se exportó optimizado para web.
+HTML, CSS y JavaScript. El audio se editó en una DAW (recorte) y se exportó optimizado para web.
 
 ## Créditos
-Sonidos e imágenes: *(fuente / licencia)*.
+Sonidos e imágenes: pixbay, audacity 4, max 9, magnific.
